@@ -1,0 +1,8 @@
+{
+  "name": "MTD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "1bee1943"
+}
